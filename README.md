@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mxtisiek
 - 👀 I’m interested in computers, military, music, cars and bikes
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m not looking to collaborate on anything for now :)
 - 📫 How to reach me: Discord - mirage1429
 - 😄 Pronouns: He/Him
