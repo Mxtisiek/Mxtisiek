@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Mxtisiek
-- 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me: Discord - mirage1429
-- 😄 Pronouns: He/Him
